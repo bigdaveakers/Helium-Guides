@@ -90,7 +90,7 @@ If you click the orange box you will be presented with the details of the beacon
 
 ![13](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-13.png)
 
-You will see a Mining Reward activity in a brown box and you will receive a reward
+You will see a Mining Reward activity in a brown box and you will receive a reward.
 
 ![12](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-12.png)
 
