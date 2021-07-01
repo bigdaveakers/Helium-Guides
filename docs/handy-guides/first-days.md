@@ -68,7 +68,13 @@ If the beacon is succesful and is witnessed by at least one hotspot then you wil
 
 ![6](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-06.png)
 
-Now, another point about relayed hotspots. This time not your hotspot but the one who challenged you. If the hotspot that challenged you is relayed then there is a good chance that it will not validate the witnesses in time and the result will be 0 witnesses and 0 HNT for you. This is irrespective of the fact you may have 25 perfectly placed hotspots close to you. You can check this by clicking on the blue beacon box to inspect the transaction and then navigate to the hotspot that issued the challenge. This is another element of luck and could negatively impact your expected rewards.
+Now, another point about relayed hotspots. This time not your hotspot but the one who challenged you. If the hotspot that challenged you is relayed then there is a good chance that it will not validate the witnesses in time and the result will be 0 witnesses and 0 HNT for you. This is irrespective of the fact you may have 25 perfectly placed hotspots close to you. You can check this by clicking on the blue beacon box to inspect the transaction and then navigate to the hotspot that issued the challenge.
+
+![9](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-09.png)
+
+![10](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-10.png)
+
+This is another element of luck and could negatively impact your expected rewards.
 
 The rewards for beacons depend on many factors and you can read about them in the official Helium documents. They are typically medium/large depending on the coverage that is assessed by the Proof of Coverage algorithms.
 
