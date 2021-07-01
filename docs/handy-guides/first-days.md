@@ -52,7 +52,7 @@ The rewards for challenges are typically small and do not depend on your locatio
 
 If you receive a challenge from another hotspot you will issue a beacon and if it is successfully witnessed you will receive a reward.
 
-In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 to 25 but 0 doesn't necessarily mean there is an issue with your hotspot.
+In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 but this doesn't necessarily mean there is an issue with your hotspot.
 
 ![5](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-05.png)
 
@@ -60,7 +60,9 @@ If you click the blue box you will be presented with the details of the beacon a
 
 ![7](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-07.png)
 
-The witnesses here are the ones that will appear in your witness list as this is a list of witnesses to you and not who you have witnessed. This is sometimes a point of confusion as it is displayed on the main page in the explorer for your hotspot. It displays those hotspots that have witnessed your beacons over the last few days.
+The witnesses here are the ones that will appear in your witness list as this is a list of witnesses to you and not who you have witnessed. This is sometimes a point of confusion as it is displayed on the main page in the explorer for your hotspot. It displays all of those hotspots that have witnessed your beacons over the last few days and is likely to show more than any individual beacon.
+
+![8](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-08.png)
 
 If the beacon is succesful and is witnessed by at least one hotspot then you will see a Mining Reward activity in a brown box and you will receive a reward.
 
