@@ -30,19 +30,19 @@ This is generally the lowest reward that you will receive and potentially the on
 
 In the explorer you will see first a PoC Challenger activity in a green box.
 
-!(https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-01.png)
+![1](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-01.png)
 
 This, if successful, will be followed by a Challenger activity in a purple box accompanied by details of the hotspot that you have challenged. If the challenge is not successful you will see nothing.
 
-!(https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-02.png)
+![2](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-02.png)
 
 If you click the purple box you will be presented with the details of the hotspot that the challenge was issued to along with a graphical representation of the beacon that was issued and the witnesses.
 
-!(https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-04.png)
+![4](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-04.png)
 
 If the challenge is successful and the beacon issued by the hotspot is witnessed then you will see a Mining Reward activity in a brown box and you will receive a reward.
 
-!(https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-03.png)
+![3](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-03.png)
 
 An important thing to note is that if YOUR hotspot is relayed it is more likely that you will have failed challenges as the network responses from the witnesses do not reach you in good time to validate. The impact of relayed hotspots will be discussed further in the Beacon and Witness reward types.
 
