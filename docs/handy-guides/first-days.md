@@ -84,9 +84,13 @@ If you witness a beacon from a nearby hotspot you will receive a reward.
 
 In the explorer you will see first a Witness activity in an orange box along with the details of the hotspot that sent the beacon.
 
+![11](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-11.png)
+
 If you click the orange box you will be presented with the details of the beacon along with a graphical representation of the witnesses of which your hotspot will be one.
 
 You will see a Mining Reward activity in a brown box and you will receive a reward
+
+![12](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-12.png)
 
 Again if the hotspot that issued the challenge to the beaconing hotspot is relayed the transaction will not be successful, in this case you will not see anything in the explorer for your hotspot.
 
