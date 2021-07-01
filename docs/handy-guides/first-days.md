@@ -54,11 +54,17 @@ If you receive a challenge from another hotspot you will issue a beacon and if i
 
 In the explorer you will see first a Beacon activity in a blue box along with the number of witnesses. The number of witnesses can be 0 to 25 but 0 doesn't necessarily mean there is an issue with your hotspot.
 
+![5](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-05.png)
+
 If you click the blue box you will be presented with the details of the beacon along with a graphical representation of the witnesses.
+
+![7](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-07.png)
 
 The witnesses here are the ones that will appear in your witness list as this is a list of witnesses to you and not who you have witnessed. This is sometimes a point of confusion as it is displayed on the main page in the explorer for your hotspot. It displays those hotspots that have witnessed your beacons over the last few days.
 
 If the beacon is succesful and is witnessed by at least one hotspot then you will see a Mining Reward activity in a brown box and you will receive a reward.
+
+![6](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-06.png)
 
 Now, another point about relayed hotspots. This time not your hotspot but the one who challenged you. If the hotspot that challenged you is relayed then there is a good chance that it will not validate the witnesses in time and the result will be 0 witnesses and 0 HNT for you. This is irrespective of the fact you may have 25 perfectly placed hotspots close to you. You can check this by clicking on the blue beacon box to inspect the transaction and then navigate to the hotspot that issued the challenge. This is another element of luck and could negatively impact your expected rewards.
 
