@@ -38,7 +38,7 @@ This, if successful, will be followed by a Challenger activity in a purple box a
 
 If you click the purple box you will be presented with the details of the hotspot that the challenge was issued to along with a graphical representation of the beacon that was issued and the witnesses.
 
-![4](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-04.png)
+![4](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-02.png)
 
 If the challenge is successful and the beacon issued by the hotspot is witnessed then you will see a Mining Reward activity in a brown box and you will receive a reward.
 
