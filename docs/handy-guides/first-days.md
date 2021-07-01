@@ -88,6 +88,8 @@ In the explorer you will see first a Witness activity in an orange box along wit
 
 If you click the orange box you will be presented with the details of the beacon along with a graphical representation of the witnesses of which your hotspot will be one.
 
+![13](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-13.png)
+
 You will see a Mining Reward activity in a brown box and you will receive a reward
 
 ![12](https://github.com/bigdaveakers/Helium-Guides/blob/patch-1/docs/media/screenshots/first-days-12.png)
